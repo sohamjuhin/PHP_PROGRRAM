@@ -1,2 +1,2 @@
 # PHP_PROGRRAM
-BASIC &amp; ADDVANCE HTML PROGRAM
+hash algorithm is used for text encryption
